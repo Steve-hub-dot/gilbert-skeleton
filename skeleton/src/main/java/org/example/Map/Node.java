@@ -1,6 +1,6 @@
 package org.example.Map;
 
-import org.example.Snowplow;
+import org.example.Player.Snowplow;
 
 import java.util.ArrayList;
 import java.util.List;

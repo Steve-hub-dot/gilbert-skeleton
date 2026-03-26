@@ -2,11 +2,12 @@ package org.example.Player;
 
 import org.example.Map.Lane;
 import org.example.Map.Node;
+import org.example.Vehicle.Bus;
 
 import java.util.ArrayList;
 import java.util.List;
 
-class Player {
+public class Player {
     private String name;
     private int money;
     private int score;

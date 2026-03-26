@@ -1,3 +1,3 @@
 package org.example.Resource;
 
-class Salt extends Resource { }
+public class Salt extends Resource { }

@@ -1,3 +1,3 @@
 package org.example.Resource;
 
-class BioKerosene extends Resource { }
+public class BioKerosene extends Resource { }
